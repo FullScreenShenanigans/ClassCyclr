@@ -12,7 +12,7 @@
   },
   "description": "Cycles through class names using TimeHandlr events.",
   "devDependencies": {
-    "@types/chai": "^4.2.2",
+    "@types/chai": "^4.2.9",
     "@types/lodash": "^4.14.138",
     "@types/lolex": "^3.1.1",
     "@types/mocha": "^5.2.7",
